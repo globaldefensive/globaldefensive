@@ -10,10 +10,5 @@
 
 ---
 
-### [Information]:
-
 ```text
-ROOT: globaldefensive
-OS:   Linux / Windows / MacOS
-LANG: C // Assembly // Rust // C++ // Python // HTML // Node.js
 > realOneIs = Time;
