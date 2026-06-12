@@ -9,6 +9,3 @@
 </p>
 
 ---
-
-```text
-> realOneIs = Time;
